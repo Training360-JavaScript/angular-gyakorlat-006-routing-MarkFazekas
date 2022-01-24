@@ -1,5 +1,5 @@
 export class Location {
-  address: string;
-  city: string;
-  country: string;
+  address: string = "Nincs";
+  city: string = "Budapest";
+  country: string = "Hungary";
 }
